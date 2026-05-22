@@ -7,7 +7,6 @@
 🚀 Building impactful projects  
 
 ## Tech Stack 
-</hr>
 - Python
 - HTML
 - CSS
