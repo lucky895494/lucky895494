@@ -6,9 +6,11 @@
 💻 Interested in AI, Data Science & ML  
 🚀 Building impactful projects  
 
-## Tech Stack ---
+## Tech Stack 
+</hr>
 - Python
 - HTML
 - CSS
 - JavaScript
 - MySQL
+</hr>
