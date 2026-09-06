@@ -7,8 +7,7 @@
 
 ## Tech Stack 
 - Python
-- HTML
-- CSS
-- JavaScript
 - MySQL
+- Machine Learning
+- Deep Learning
 </hr>
